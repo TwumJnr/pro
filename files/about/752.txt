@@ -1,0 +1,32 @@
+create table location(
+   location_id varchar2(5) primary key,
+   city varchar2(30) not null,
+   street_name varchar2(35) not null
+);
+
+create table department(
+   department_id varchar2(4) primary key,
+   department_name varchar2(25) not null,
+   location_id varchar2(5), constraint location_fk foreign key(location_id) references location(location_id)
+   );
+
+create table members(
+member_id varchar(4) primary key,
+last_name varchar(30) not null,
+first_name varchar(30) not null,
+other_name varchar(25),
+dob date,
+gender varchar(6) not null,
+telephone varchar(16) unique,
+email varchar(30) unique,
+department_head varchar(4) not null,
+department_id varchar(4),
+constraint department_fk foreign key(department_id)  references department(department_id)
+);
+
+create table users(
+	username varchar(25),
+	pwd varchar(100),
+	member_id varchar(4),
+	constraint user_fk foreign key(member_id)  references members(member_id)
+);

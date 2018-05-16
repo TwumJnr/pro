@@ -1,0 +1,304 @@
+Mixed Quiz
+
+	Mixed Quiz
+(See related pages) </sites/0070612072/sitemap.html?Qui>
+
+
+
+1
+		
+On a network that uses NAT, the _______ has a translation table.
+		*A)*	Router
+		*B)*	Switch
+		*C)*	Server
+		*D)*	None of the above
+2
+		
+Identify the class of IP address 229.1.2.3.
+		*A)*	Class A
+		*B)*	Class B
+		*C)*	Class C
+		*D)*	Class D
+3
+		
+On a network that uses NAT, _______ initiates the communication.
+		*A)*	An internal host
+		*B)*	An external host
+		*C)*	The router
+		*D)*	(a) or (b)
+4
+		
+A subnet mask in class B can have _______ 1s with the remaining bits 0s.
+		*A)*	Nine
+		*B)*	Seventeen
+		*C)*	Three
+		*D)*	Fourteen
+5
+		
+A subnet mask in class C can have _______ 1s with the remaining bits 0s.
+		*A)*	Twenty-five
+		*B)*	Twelve
+		*C)*	Seven
+		*D)*	Ten
+6
+		
+Identify the class of IP address 4.5.6.7.
+		*A)*	Class A
+		*B)*	Class B
+		*C)*	Class C
+		*D)*	Class D
+7
+		
+Identify the class of IP address 191.1.2.3.
+		*A)*	Class A
+		*B)*	Class B
+		*C)*	Class C
+		*D)*	Class D
+8
+		
+A subnet mask in class A can have _______ 1s with the remaining bits 0s.
+		*A)*	Nine
+		*B)*	Four
+		*C)*	Thirty-three
+		*D)*	Three
+9
+		
+Class _______ has the greatest number of hosts per given network address.
+		*A)*	A
+		*B)*	B
+		*C)*	C
+		*D)*	D
+10
+		
+A subnet mask in class B has nineteen 1s. How many subnets does it define?
+		*A)*	128
+		*B)*	8
+		*C)*	32
+		*D)*	64
+11
+		
+In _______ routing, the full IP address of a destination is given in the
+routing table.
+		*A)*	Next-hop
+		*B)*	Host-specific
+		*C)*	Network-specific
+		*D)*	Default
+12
+		
+A subnet mask in class C has twenty-five 1s. How many subnets does it
+define?
+		*A)*	0
+		*B)*	2
+		*C)*	8
+		*D)*	16
+13
+		
+Given the IP address 180.25.21.172 and the subnet mask 255.255.192.0,
+what is the subnet address?
+		*A)*	180.25.21.0
+		*B)*	180.25.8.0
+		*C)*	180.25.0.0
+		*D)*	180.0.0.0
+14
+		
+Given the IP address 18.250.31.14 and the subnet mask 255.240.0.0, what
+is the subnet address?
+		*A)*	18.9.0.14
+		*B)*	18.0.0.14
+		*C)*	18.31.0.14
+		*D)*	18.240.0.0
+15
+		
+_______ is a client-server program that provides an IP address, subnet
+mask, IP address of a router, and IP address of a name server to a computer.
+		*A)*	NAT
+		*B)*	DHCP
+		*C)*	CIDR
+		*D)*	ISP
+16
+		
+In _______, each packet of a message need not follow the same path from
+sender to receiver.
+		*A)*	The virtual approach to packet switching
+		*B)*	The datagram approach to packet switching
+		*C)*	Message switching
+		*D)*	None of the above
+17
+		
+An IP address consists of _______ bits.
+		*A)*	8
+		*B)*	32
+		*C)*	4
+		*D)*	Any of the above
+18
+		
+On a network that uses NAT, the router can use _______ global address(es).
+		*A)*	A pool of
+		*B)*	One
+		*C)*	Two
+		*D)*	None of the above
+19
+		
+In _______ routing, the mask and destination addresses are both 0.0.0.0
+in the routing table.
+		*A)*	Default
+		*B)*	Next-hop
+		*C)*	Network-specific
+		*D)*	Host-specific
+20
+		
+A subnet mask in class A has fourteen 1s. How many subnets does it define?
+		*A)*	64
+		*B)*	128
+		*C)*	32
+		*D)*	8
+21
+		
+In which type of switching do all the packets of a message follow the
+same channels of a path?
+		*A)*	Virtual circuit packet switching
+		*B)*	Message switching
+		*C)*	Datagram packet switching
+		*D)*	None of the above
+22
+		
+In _______ routing, the destination address is a network address in the
+routing table.
+		*A)*	Network-specific
+		*B)*	Host-specific
+		*C)*	Next-hop
+		*D)*	Default
+23
+		
+Given the IP address 201.14.78.65 and the subnet mask 255.255.255.224,
+what is the subnet address?
+		*A)*	201.14.78.64
+		*B)*	201.14.78.32
+		*C)*	201.14.78.65
+		*D)*	201.14.78.12
+
+
+
+
+	
+
+To learn more about the book this website supports, please visit its
+Information Center </sites/0070612072/information_center_view0/>.
+(c)2006 Tata McGraw-Hill
+Any use is subject to the Terms of Use
+<http://www.mcgraw-hill.com/copyrttm.htm> and Privacy Policy
+<javascript://>.
+Tata McGraw-Hill <http://www.tatamcgrawhill.com/> is one of the many
+fine businesses ofThe McGraw-Hill Companies <http://www.mcgraw-hill.com>.
+
+
+
+Forouzan </sites/0070612072/student_view0/>	Online Learning Center
+
+Instructor Edition
+Student Edition
+Notes <javascript://>Search <javascript://>Profile <javascript://>
+Search <javascript://>Instructor Log In <javascript://>
+Notes <javascript://>Search <javascript://>Profile <javascript://>
+Search <javascript://>Instructor Log In <javascript://>
+			
+	
+
+Log In
+You must be a registered user to view the premium content <#> in this
+website.
+
+If you already have a username and password, enter it below. If your
+textbook came with a card and this is your first visit to this site, you
+can use your registration code
+</webintegration/WebIntegrationServlet?call=ValidateClaimWeblet&external=1&isbn=0070612072&chrome=%2fsites%2f0070612072%2fchrome.vm&goto_url=/sites/0070612072/student_view0/chapter19/mixed_quiz.html>
+to register.
+Username:	
+Password:	
+	Forgot your password?
+</webintegration/WebIntegrationServlet?call=RetrieveCredentialsWeblet&external=1&isbn=0070612072&chrome=%2fsites%2f0070612072%2fchrome.vm&goto_url=/sites/0070612072/student_view0/chapter19/mixed_quiz.html>
+
+	
+	Instructor Log In <javascript:stopTool('toolLogin');>	
+
+			
+	
+
+Site Preferences 	(Log out
+</webintegration/WebIntegrationServlet?call=LogoutWeblet&external=1&isbn=0070612072&chrome=%2fsites%2f0070612072%2fchrome.vm&goto_url=/sites/0070612072/student_view0/chapter19/mixed_quiz.html>)
+
+This form changes settings for this website only. To make changes to
+your user profile instead, please click here
+</webintegration/WebIntegrationServlet?call=EditProfileWeblet&external=1&isbn=0070612072&chrome=%2fsites%2f0070612072%2fchrome.vm&goto_url=/sites/0070612072/student_view0/chapter19/mixed_quiz.html>.
+	Send mail as:
+	
+Instructor email:		
+TA email:		
+Other email:		
+"Floating" navigation?	
+Drawer speed:	
+
+	
+	Preferences <javascript:stopTool('toolProfile');>	
+
+			
+	
+
+Notes	(What is this?) <javascript://>
+    
+------------------------------------------------------------------------
+Add a note
+1.	(optional) Enter a note here:
+
+2.	(optional) Select some text on the page (or do this before you open
+the "Notes" drawer).
+3.	Highlighter Color:
+4.	
+
+	
+	Notes <javascript:stopTool('toolNotes');>	
+
+			
+	
+
+Search
+Search for:	
+Search in:	
+
+	
+	Search <javascript:stopTool('toolSearch');>	
+
+
+Home </sites/0070612072/student_view0/>> Chapter 19
+</sites/0070612072/student_view0/chapter19/>> Mixed Quiz
+<javascript:startNav();>
+
+	Course-wide Content
+		Sample Chapter </sites/0070612072/student_view0/sample_chapter.html>
+Glossary </sites/0070612072/student_view0/glossary.html>
+
+	
+
+	Quizzes
+		Mixed Quiz <javascript://>
+	More Resources
+		Animations </sites/0070612072/student_view0/chapter19/animations.html>
+
+<javascript://>
+
+	Instructor Resources
+		PowerPoint Slides <javascript://>
+Instructors Manual <javascript://>
+	Course-wide Content
+		Sample Chapter </sites/0070612072/student_view0/sample_chapter.html>
+Glossary </sites/0070612072/student_view0/glossary.html>
+
+	
+
+	Quizzes
+		Mixed Quiz <javascript://>
+	More Resources
+		Animations </sites/0070612072/student_view0/chapter19/animations.html>
+
+<javascript://>
+
